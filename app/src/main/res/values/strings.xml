@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="name">Name:" "</string>
+    <string name="cairo">Cairo</string>
+    <string name="location">Location:" "</string>
+    <string name="egypt">Egypt</string>
+    <string name="cities">Cities</string>
+    <string name="clubs">Clubs</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="tourism">Tourism</string>
+    <string name="alex">Alex</string>
+    <string name="aswan">Aswan</string>
+    <string name="luxor">Luxor</string>
+    <string name="pyramids">Pyramids</string>
+    <string name="kfc">KFC</string>
+    <string name="giza">Giza</string>
+    <string name="port_said">Port Said</string>
+    <string name="pizza_hut">Pizza Hut</string>
+    <string name="hardees">Hardees</string>
+    <string name="burger_king">Burger King</string>
+    <string name="ismaily">Ismaily</string>
+    <string name="ismailia">Ismailia</string>
+    <string name="cairo_tower">Cairo Tower</string>
+    <string name="hatshebsute_temple">Hatshebsute Temple</string>
+    <string name="alahly">Alahly</string>
+    <string name="masry">Masry</string>
+    <string name="zamalek">Zamalek</string>
+    <string name="zagaizg">Zagazig</string>
+    <string name="sphinx">Sphinx</string>
+
+
+</resources>
